@@ -18,7 +18,7 @@ This project aimed to examine the relationship between game ratings and the avai
 - As player count increases, more games are bought but not played, possibly due to impulse buying or sales.
 - The correlation between backlogs and wishlist additions may be attributed to anticipation.
 - Game ratings have a slight correlation with wishlist additions, with a significant jump at the 4.5 rating.
-- Machine learning models were trained to predict game ratings, with the Random Forest model performing the best.
+- Machine learning models were trained to predict game ratings, with the Lineral Regression model performing the best.
 
 Целью данного проекта было изучение взаимосвязи между рейтингами игр и их доступностью на платформе PC. Набор данных включал такие атрибуты, как название игры, дата выхода, разработчики, краткое описание, платформы, жанры и рейтинги. Анализ показал несколько интересных результатов:
 
@@ -29,7 +29,7 @@ This project aimed to examine the relationship between game ratings and the avai
 - С увеличением числа игроков все больше игр покупается, но не играется, возможно, из-за импульсивных покупок или распродаж.
 - Корреляция между количеством отзывов и пополнением списка желаний может быть связана с ожиданием.
 - Рейтинги игр слабо коррелируют с пополнением списка желаний, причем значительный скачок наблюдается при оценке 4,5.
-- Для прогнозирования рейтингов игр были обучены модели машинного обучения, при этом наилучшие результаты показала модель Random Forest.
+- Для прогнозирования рейтингов игр были обучены модели машинного обучения, при этом наилучшие результаты показала модель линейной регрессии.
 
 ## Developers
 
