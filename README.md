@@ -1,6 +1,6 @@
 # popular_videogames
 <p align="center">
-      <img src="https://i.ibb.co/2Sw0pwL/png-transparent-super-nintendo-entertainment-system-video-game-game-controllers-computer-icons-video.png" width="536">
+      <img src="https://i.ibb.co/q5q2DYH/pngwing-com.png" width="536">
 </p>
 
 <p align="center">
