@@ -1,6 +1,6 @@
 # popular_videogames
 <p align="center">
-      <img src="https://i.ibb.co/q5q2DYH/pngwing-com.png" width="536">
+      <img src="https://i.ibb.co/q5q2DYH/pngwing-com.png" width="236">
 </p>
 
 <p align="center">
